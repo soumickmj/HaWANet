@@ -1,0 +1,7 @@
+background
+person
+bicycle
+motorcycle
+car
+truck
+bus
